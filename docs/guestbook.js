@@ -1,5 +1,6 @@
 /**
  * Web application
+ * My changes
  */
 const apiUrl = 'https://service.us.apiconnect.ibmcloud.com/gws/apigateway/api/CHANGEME/guestbook';
 const guestbook = {
